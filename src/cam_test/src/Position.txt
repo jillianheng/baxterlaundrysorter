@@ -1,0 +1,93 @@
+CLOTHES POSITION ON TABLE
+- Translation: [0.918, 0.256, 0.138]
+- Rotation: in Quaternion [-0.029, 0.997, 0.034, 0.067]
+            in RPY (radian) [3.076, 0.135, -3.088]
+            in RPY (degree) [176.252, 7.744, -176.932]
+
+- Translation: [0.901, 0.142, -0.036]
+- Rotation: in Quaternion [0.001, 0.999, -0.003, 0.054]
+            in RPY (radian) [-3.136, 0.108, 3.140]
+            in RPY (degree) [-179.693, 6.188, 179.883]
+
+- Translation: [0.786, -0.118, -0.037]
+- Rotation: in Quaternion [0.211, 0.976, 0.046, 0.019]
+            in RPY (radian) [3.043, 0.017, 2.715]
+            in RPY (degree) [174.368, 0.981, 155.581]
+
+BASKET POSITION
+- Translation: [0.006, 0.771, 0.263]
+- Rotation: in Quaternion [-0.487, 0.873, -0.001, -0.035]
+            in RPY (radian) [3.109, -0.063, -2.123]
+            in RPY (degree) [178.159, -3.626, -121.653]
+
+
+
+
+First shirt(bottom)
+- Translation: [0.861, 0.356, -0.053]
+- Rotation: in Quaternion [0.068, 0.997, 0.039, -0.012]
+            in RPY (radian) [3.066, -0.029, 3.007]
+            in RPY (degree) [175.675, -1.667, 172.307]
+First shirt(top)
+- Translation: [0.894, 0.335, 0.128]
+- Rotation: in Quaternion [-0.026, 0.999, 0.008, 0.042]
+            in RPY (radian) [3.127, 0.085, -3.089]
+            in RPY (degree) [179.181, 4.862, -176.995]
+BASKET2 Position
+- Translation: [0.396, 0.781, 0.238]
+- Rotation: in Quaternion [0.755, -0.656, 0.011, 0.020]
+            in RPY (radian) [3.125, -0.043, -1.431]
+            in RPY (degree) [179.065, -2.442, -81.969]
+
+
+
+cloptheas 1 top
+At time 1480626022.193
+- Translation: [0.783, 0.538, 0.223]
+- Rotation: in Quaternion [0.999, -0.028, 0.015, -0.009]
+            in RPY (radian) [-3.122, -0.030, -0.056]
+            in RPY (degree) [-178.902, -1.729, -3.234]
+clothes 1
+- Translation: [0.782, 0.581, -0.026]
+- Rotation: in Quaternion [0.999, 0.014, -0.031, 0.018]
+            in RPY (radian) [3.106, 0.062, 0.028]
+            in RPY (degree) [177.988, 3.574, 1.577]
+clothes 2 top
+me 1480626148.193
+- Translation: [0.764, 0.357, 0.233]
+- Rotation: in Quaternion [1.000, -0.003, -0.024, 0.018]
+            in RPY (radian) [3.105, 0.047, -0.006]
+            in RPY (degree) [177.875, 2.694, -0.357]
+
+clothes 2 bot
+At time 1480626161.194
+- Translation: [0.762, 0.359, -0.043]
+- Rotation: in Quaternion [0.999, -0.028, 0.016, 0.006]
+            in RPY (radian) [3.131, -0.033, -0.055]
+            in RPY (degree) [179.384, -1.881, -3.159]
+
+clothes 3 top
+- Translation: [0.796, 0.107, 0.295]
+- Rotation: in Quaternion [-0.000, 1.000, 0.004, -0.007]
+            in RPY (radian) [3.133, -0.013, -3.141]
+            in RPY (degree) [179.491, -0.756, -179.948]
+
+clothes 3 bot
+- Translation: [0.790, 0.127, -0.069]
+- Rotation: in Quaternion [-0.037, 0.995, 0.023, -0.088]
+            in RPY (radian) [3.088, -0.174, -3.062]
+            in RPY (degree) [176.942, -9.948, -175.423]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

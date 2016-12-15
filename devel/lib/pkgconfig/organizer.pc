@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa16/class/ee106a-ade/ros-workspaces/final_proj/devel
+
+Name: organizer
+Description: Description of organizer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa16/class/ee106a-ade/ros-workspaces/final_proj/devel/lib 
+Requires: 

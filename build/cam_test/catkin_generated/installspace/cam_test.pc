@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa16/class/ee106a-ade/ros-workspaces/final_proj/install
+
+Name: cam_test
+Description: Description of cam_test
+Version: 0.0.0
+Cflags: -I/home/cc/ee106a/fa16/class/ee106a-ade/ros-workspaces/final_proj/install/include
+Libs: -L/home/cc/ee106a/fa16/class/ee106a-ade/ros-workspaces/final_proj/install/lib 
+Requires: 
